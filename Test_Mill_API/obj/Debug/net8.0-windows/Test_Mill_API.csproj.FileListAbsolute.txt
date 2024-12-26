@@ -1,0 +1,7 @@
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.csproj.AssemblyReference.cache
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.Form1.resources
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.csproj.GenerateResource.cache
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.AssemblyInfoInputs.cache
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.AssemblyInfo.cs
+E:\VS_PROJECTS\Test_Mill_API\obj\Debug\net8.0-windows\Test_Mill_API.csproj.CoreCompileInputs.cache

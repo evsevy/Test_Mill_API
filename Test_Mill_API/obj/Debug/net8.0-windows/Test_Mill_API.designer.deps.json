@@ -1,0 +1,32 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NUnit/4.3.1": {
+        "runtime": {
+          "lib/net8.0/nunit.framework.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          },
+          "lib/net8.0/nunit.framework.legacy.dll": {
+            "assemblyVersion": "4.4.0.0",
+            "fileVersion": "4.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NUnit/4.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-798HDjDWfo2/BVWAeqIny3hRP2z/uk2EVeTeFB69EGHQWxFZ1oVXRaobtOdkzBF4b/olUuWXDJzgtW63aBRDxg==",
+      "path": "nunit/4.3.1",
+      "hashPath": "nunit.4.3.1.nupkg.sha512"
+    }
+  }
+}

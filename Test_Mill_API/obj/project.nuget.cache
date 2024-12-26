@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLkwsgqIYDQ=",
+  "success": true,
+  "projectFilePath": "E:\\VS_PROJECTS\\Test_Mill_API\\Test_Mill_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krist\\.nuget\\packages\\nunit\\4.3.1\\nunit.4.3.1.nupkg.sha512",
+    "C:\\Users\\krist\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.26100.54\\microsoft.windows.sdk.net.ref.10.0.26100.54.nupkg.sha512"
+  ],
+  "logs": []
+}
